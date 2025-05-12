@@ -1,4 +1,4 @@
-# 🏗️ Asesor Virtual para Obreros de Obra (******PROTOTIPO******)
+# 🏗️ Asesor Virtual para Obreros (******PROTOTIPO******)
 
 Este proyecto tiene como objetivo crear un **chatbot** que asesore a los **obreros** en una obra de construcción. El chatbot proporcionará información útil sobre procedimientos de construcción, seguridad, herramientas y otros recursos, mejorando la eficiencia y la seguridad en el sitio de trabajo.
 
